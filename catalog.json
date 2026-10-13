@@ -10,7 +10,8 @@
     "assetId": 632427874,
     "createdAt": 1791772290104,
     "iconUrl": "https:\/\/github.com\/rushikesh99120\/Rkmods\/releases\/download\/files\/1791772289215_icon_IMG_f0bd1cb7-1509-41a9-926b-51bf056e27a0.jpg",
-    "iconAssetId": 632428334
+    "iconAssetId": 632428334,
+    "category": ""
   },
   {
     "id": "d5920b2f-07b0-4c5c-ba38-87a579ae484f",
@@ -23,7 +24,8 @@
     "assetId": 632995620,
     "createdAt": 1791789316582,
     "iconUrl": "https:\/\/github.com\/rushikesh99120\/Rkmods\/releases\/download\/files\/1791789315782_icon_Mt_Manager_Logo.png",
-    "iconAssetId": 632995863
+    "iconAssetId": 632995863,
+    "category": ""
   },
   {
     "id": "5307d562-827a-4808-990b-e808106f62b2",
@@ -36,7 +38,8 @@
     "assetId": 633010017,
     "createdAt": 1791789723594,
     "iconUrl": "https:\/\/github.com\/rushikesh99120\/Rkmods\/releases\/download\/files\/1791789722632_icon_Mt_Manager_Logo.png",
-    "iconAssetId": 633010295
+    "iconAssetId": 633010295,
+    "category": ""
   },
   {
     "id": "e392f9cd-7430-491d-9454-f64375e92689",
@@ -49,7 +52,8 @@
     "assetId": 633558669,
     "createdAt": 1791803691112,
     "iconUrl": "https:\/\/github.com\/rushikesh99120\/Rkmods\/releases\/download\/files\/1791803690404_icon_unnamed.png",
-    "iconAssetId": 633559240
+    "iconAssetId": 633559240,
+    "category": ""
   },
   {
     "id": "59c3a312-6cfa-4fa9-b76d-4ed1be18ddb0",
@@ -62,7 +66,8 @@
     "assetId": 633571829,
     "createdAt": 1791804034472,
     "iconUrl": "https:\/\/github.com\/rushikesh99120\/Rkmods\/releases\/download\/files\/1791804033530_icon_unnamed__1_.png",
-    "iconAssetId": 633574065
+    "iconAssetId": 633574065,
+    "category": ""
   },
   {
     "id": "9b9eec14-9309-4d31-9db2-9876f1d58c2d",
@@ -75,7 +80,8 @@
     "assetId": 633599689,
     "createdAt": 1791804689189,
     "iconUrl": "https:\/\/github.com\/rushikesh99120\/Rkmods\/releases\/download\/files\/1791804688276_icon_unnamed.png",
-    "iconAssetId": 633600562
+    "iconAssetId": 633600562,
+    "category": ""
   },
   {
     "id": "6c9fd5b8-918e-4d8e-9fe7-2fca53754b29",
@@ -88,7 +94,8 @@
     "assetId": 633645310,
     "createdAt": 1791805879601,
     "iconUrl": "https:\/\/github.com\/rushikesh99120\/Rkmods\/releases\/download\/files\/1791805878811_icon_images.jpeg",
-    "iconAssetId": 633646801
+    "iconAssetId": 633646801,
+    "category": ""
   },
   {
     "id": "5994d63c-ee32-4fef-948d-a6a1c4adf37b",
@@ -101,7 +108,8 @@
     "assetId": 633665869,
     "createdAt": 1791806457331,
     "iconUrl": "https:\/\/github.com\/rushikesh99120\/Rkmods\/releases\/download\/files\/1791806455741_icon_images__1_.jpeg",
-    "iconAssetId": 633667388
+    "iconAssetId": 633667388,
+    "category": ""
   },
   {
     "id": "07ae2b96-b724-43c2-9047-1557b6f59e2b",
@@ -114,7 +122,8 @@
     "assetId": 633722697,
     "createdAt": 1791807971725,
     "iconUrl": "https:\/\/github.com\/rushikesh99120\/Rkmods\/releases\/download\/files\/1791807970893_icon_icon.png",
-    "iconAssetId": 633723257
+    "iconAssetId": 633723257,
+    "category": ""
   },
   {
     "id": "3c5eac37-1ca4-4325-8fe1-9dd5db4015ea",
@@ -127,7 +136,8 @@
     "assetId": 635615914,
     "createdAt": 1791857977564,
     "iconUrl": "https:\/\/github.com\/rushikesh99120\/Rkmods\/releases\/download\/files\/1791857977565_icon_icon.png",
-    "iconAssetId": 635616166
+    "iconAssetId": 635616166,
+    "category": ""
   },
   {
     "id": "375f7b5e-8ba5-499e-b84d-830dca5c104e",
@@ -140,7 +150,8 @@
     "assetId": 635617396,
     "createdAt": 1791858062205,
     "iconUrl": "https:\/\/github.com\/rushikesh99120\/Rkmods\/releases\/download\/files\/1791858062205_icon_icon.png",
-    "iconAssetId": 635618986
+    "iconAssetId": 635618986,
+    "category": ""
   },
   {
     "id": "3cd6f637-0e7d-4241-aed7-66df7dd2421e",
@@ -153,6 +164,21 @@
     "assetId": 635620662,
     "createdAt": 1791858147575,
     "iconUrl": "https:\/\/github.com\/rushikesh99120\/Rkmods\/releases\/download\/files\/1791858147576_icon_icon.png",
-    "iconAssetId": 635621933
+    "iconAssetId": 635621933,
+    "category": ""
+  },
+  {
+    "id": "6b40d560-d8a8-49ba-bfd6-29431a0bfcc9",
+    "name": "Captions AI - Premium",
+    "version": "1.40.10",
+    "description": "🎬 CAPTION AI MOD APK 🔥\n\n💎 Unlock Premium Features\n✨ AI-Powered Video Captions\n📝 Automatic Subtitle Generation\n🌍 Multilingual Caption Support\n🎤 Speech-to-Text Transcription\n🎨 Stylish Animated Subtitles\n⚡ Fast & Easy Caption Editing\n📱 Perfect for Reels, Shorts & TikTok\n📤 Export Videos with Captions\n\n🔥 RK MODS | PREMIUM RK APPS HUB\n\n🚀 Create • Caption • Inspire\n\n⚠️ DISCLAIMER: Caption AI is a third-party application. RK Mods is not affiliated with or endorsed by its developers. Premium features may require an official subscription. Download only authorized versions from trusted sources.\n\n📥 EXPLORE CAPTION AI & ITS FEATURES TODAY!",
+    "fileName": "Captions_AI_-_Captune_1.40.10_.apk",
+    "size": 48947255,
+    "url": "https:\/\/github.com\/rushikesh99120\/Rkmods\/releases\/download\/files\/1791901560712_Captions_AI_-_Captune_1.40.10_.apk",
+    "assetId": 637273283,
+    "createdAt": 1791901572861,
+    "iconUrl": "https:\/\/github.com\/rushikesh99120\/Rkmods\/releases\/download\/files\/1791901572862_icon_icon.png",
+    "iconAssetId": 637273829,
+    "category": "app"
   }
 ]
