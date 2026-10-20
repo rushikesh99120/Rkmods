@@ -325,34 +325,6 @@
     "isFavorite": false
   },
   {
-    "id": "instagram_mod",
-    "name": "Instagram Mod",
-    "category": "SOCIAL",
-    "tagline": "Premium Unlocked • Ghost Mode • Media Saver",
-    "sizeMb": 68,
-    "rating": 4.900000095367432,
-    "ratingCount": "32.4K",
-    "minAndroid": "Android 7.0+",
-    "version": "v320.0.0",
-    "updatedDate": "Today",
-    "packageName": "com.rkmods.instagram",
-    "description": "Ultimate Instagram modification with story downloading in HD, disable typing status, hide read receipts, copy bio, view profile pictures in full resolution, and ad-free experience.",
-    "modFeatures": [
-      "Ghost Mode (Hide view stories & read receipts)",
-      "Direct Media Downloader (HD Photos & Reels)",
-      "Ad-Free Feed and Stories",
-      "Translate Comments Automatically",
-      "Copy Bio, Captions and Comments"
-    ],
-    "iconType": "INSTAGRAM",
-    "isInstalled": false,
-    "developer": "RK Mods Team",
-    "architecture": "arm64-v8a, armeabi-v7a",
-    "rootRequired": false,
-    "isFeatured": true,
-    "isFavorite": false
-  },
-  {
     "id": "spotify_mod",
     "name": "Spotify Mod",
     "category": "MEDIA",
