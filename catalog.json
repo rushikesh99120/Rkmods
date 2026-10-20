@@ -323,33 +323,5 @@
     "rootRequired": false,
     "isFeatured": false,
     "isFavorite": false
-  },
-  {
-    "id": "lightroom_mod",
-    "name": "Lightroom Premium Mod",
-    "category": "TOOLS",
-    "tagline": "Premium Unlocked • Selective Edit • Presets",
-    "sizeMb": 110,
-    "rating": 4.800000190734863,
-    "ratingCount": "21.0K",
-    "minAndroid": "Android 8.0+",
-    "version": "v9.3.0",
-    "updatedDate": "5 days ago",
-    "packageName": "com.rkmods.lightroom",
-    "description": "Professional color grading and photo correction. Selective masking adjustments, healing brush, perspective geometry, and thousands of premium community presets unlocked.",
-    "modFeatures": [
-      "Full Premium Features Unlocked",
-      "Selective Masking & Radial Filters",
-      "Healing Brush & Object Eraser",
-      "Raw DNG Photo Editing",
-      "Unlimited Preset Import & Export"
-    ],
-    "iconType": "LIGHTROOM",
-    "isInstalled": false,
-    "developer": "RK Mods Team",
-    "architecture": "arm64-v8a, armeabi-v7a",
-    "rootRequired": false,
-    "isFeatured": false,
-    "isFavorite": false
   }
 ]
