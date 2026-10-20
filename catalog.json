@@ -1,34 +1,5 @@
 [
   {
-    "id": "mod_1792469767329",
-    "name": "Rk Apps Store",
-    "category": "TOOLS",
-    "tagline": "Video Editing Mod • Premium Features",
-    "sizeMb": 48,
-    "rating": 5,
-    "ratingCount": "Verified",
-    "minAndroid": "Android 6.0+",
-    "version": "v1.0.0",
-    "updatedDate": "Just now",
-    "packageName": "com.mods.rkappsstore",
-    "description": "Newly published verified mod with all VIP premium features unlocked, zero ads, and maximum stability.",
-    "modFeatures": [
-      "VIP Premium Unlocked",
-      "Ad-Free Clean Experience",
-      "Direct Ultra-Fast CDN Download",
-      "Verified Safe Package Signature"
-    ],
-    "iconType": "GENERIC",
-    "iconUri": "\/data\/user\/0\/com.aistudio.appcatalog.bqwkzp\/files\/app_icons\/icon_1792469755933.png",
-    "apkUri": "https:\/\/github.com\/rushikesh99120\/Rkmods\/releases\/download\/files\/mod_1792469767329_RkAppsStore.apk",
-    "isInstalled": false,
-    "developer": "RK Mods Team",
-    "architecture": "arm64-v8a, armeabi-v7a",
-    "rootRequired": false,
-    "isFeatured": true,
-    "isFavorite": false
-  },
-  {
     "id": "014861b2-905b-4e09-a8be-a1593eaaf013",
     "name": "Photo Editor Pro - Polish_1.794.265_",
     "category": "ALL",
